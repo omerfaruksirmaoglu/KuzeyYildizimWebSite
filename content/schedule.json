@@ -2,7 +2,7 @@
   {
     "atIso": "2025-09-28T00:00:00+03:00",
     "type": "message",
-    "message": "❤️ Aşkın Şifresi ❤️\nMacera başlıyor…\nÖnünde, çözülmeyi bekleyen 19 harften oluşan gizemli bir şifre var.\nBu şifre, sadece kelimelerden ibaret değil; kalbime giden gizli bir kapının anahtarı.\nSabır senin en güçlü silahın olacak.\nHer harfi çözdükçe, seni bekleyen sürprize biraz daha yaklaşacaksın.\nAma unutma: ne kadar hızlı ilerlersen, ödülüne o kadar hızlı kavuşacaksın.\nBu yolculuk senin için hazırlandı, her adımı sadece sana özel.\nVe finalde, seni bekleyen şey yalnızca bir hediye değil…\nBenim sevgimle hazırlanmış, kalbine dokunacak bir sürpriz olacak. ✨\nHazır mısın bebeğimm?\nOyun başlıyor…",
+    "message": "💙❤️💙 Aşkımızın Şifresi 💙❤️💙\nSevgilim Maceran Başlıyor…\nÖnünde, çözülmeyi bekleyen 19 harften oluşan gizemli bir şifre var.\nBu şifre, sadece kelimelerden ibaret değil; kalbime giden gizli bir kapının anahtarı.\nSabır senin en güçlü silahın olacak.\nHer harfi çözdükçe, seni bekleyen sürprize biraz daha yaklaşacaksın.\nAma unutma: ne kadar hızlı ilerlersen, hediyene o kadar hızlı kavuşacaksın.\nBu yolculuk senin için hazırlandı, her adımı sadece sana özel.\nVe finalde, seni bekleyen şey yalnızca bir hediye değil…\nBenim sevgimle hazırlanmış, kalbine dokunacak özel bir hediye olacak. ✨\nHazır mısın bebeğimm?\nOyun başlıyor…",
     "media": [],
     "question": "Soru:\nGeceleri sana ışık olan,\nKaranlıkta yanında duran…\nKüçük ama kalpten gelen bir armağan,\nAdını sen koydun: sana özel bir parça.\nSana doğru yolu gösteren,\nseninle birlikteyken en parlak görünen…\nO nedir?",
     "answer": "kuzeycik",
@@ -22,12 +22,12 @@
   {
     "atIso": "2025-09-28T07:00:00+03:00",
     "type": "media",
-    "message": "Yolculuğun bir sonraki durağı, kendi krallığın: evin…\nOrada, gözlerden saklı küçük bir hazine bekliyor…\nOnu bulmanın anahtarı ise karşındaki videoda…\nVideoyu dikkatle izle; her saniye, saklı yeri ele veren minik bir iz taşıyor.\nBulduğunda, acele etme.\nPuzzle'ın her parçası, sevgimden bir iz gibi yerine oturacak.\nParçalar bir araya geldikçe, hikâyemizin resmi netleşecek—tıpkı ikimizin fotoğrafları gibi.\nSon hamle çok önemli:\nPuzzle tamamlandığında, arkasındaki yazıyı oku ve aklında tut.\nBu yazı, bir sonraki kapının şifresi olacak.\n(İpucu: Notu yazmana gerek yok; kalbin güçlü bir hafıza kasasıdır. 😉)\nUnutma… ne kadar hızlı tamamlarsan, hediyene o kadar hızlı kavuşursun.\nAma en güzeli, bu anların keyfini çıkarmak. Çünkü bu oyun, bizim hikâyemizin başka bir sayfası. ❤️",
+    "message": "Yolculuğun bir sonraki durağı, kendi krallığın: evin…\nOrada, gözlerden saklı küçük bir hazine bekliyor…\nOnu bulmanın anahtarı ise karşındaki videoda…\nVideoyu dikkatle izle; seni bekleyen şeyin ne olduğunu bulmak için bir adım daha atmana yardımcı olacak.\nBulduğunda, acele etme.\nPuzzle'ın her parçası, sevgimden bir iz gibi yerine oturacak.\nParçalar bir araya geldikçe, hikâyemizin resmi netleşecek, tıpkı ikimizin fotoğrafları gibi.\nSon hamle çok önemli:\nPuzzle tamamlandığında, arkasındaki harfleri oku ve aklında tut.\nBu harfler, bir sonraki kapının şifresi olacak.\nUnutma… ne kadar hızlı tamamlarsan, hediyene o kadar hızlı kavuşursun.\nAma en güzeli, bu anların keyfini çıkarmak. Çünkü bu oyun, bizim hikâyemizin başka bir sayfası. ❤️\nBence harfleri yazmana gerek yok; zaten kalbin, güçlü bir hafızanın kasasıdır. 💙",
     "media": [
       {
         "kind": "video",
-        "src": "/content/media/0700.mp4",
-        "poster": "/content/media/0700.jpg"
+        "src": "/content/media/puzzlevideo.mp4",
+        "poster": "/content/media/puzzlevideo.mp4"
       }
     ],
     "question": null,
@@ -35,9 +35,24 @@
     "hints": []
   },
   {
+    "atIso": "2025-09-28T09:30:00+03:00",
+    "type": "media",
+    "message": "Bu kez ipucu seni, hiç solmayan bir hatıraya götürüyor.\nBir zamanlar sana verdiğim, zamanın dokunamadığı o kırmızı mucizeyi hatırlıyor musun? 🌹\nO, sadece bir gül değil… içinde kalbimin sessiz bir fısıltısını saklayan bir sır bekçisi.\nSana düşen tek şey:\n👉 O gücü hatırlamak.\n👉 Ve yapraklarının arasına gizlenmiş sırrı keşfetmek.\nUnutma sevgilim, bu gül sonsuza dek açan sevgimizi simgeliyor.\nVe bu kez seni bekleyen sürpriz, tam da bu sevginin kalbinde gizli.\nHazır mısın?\nGül seni bekliyor… ve içindeki minik sırrı da",
+    "media": [
+      {
+        "kind": "image",
+        "src": "/content/media/gulfoto.png",
+        "alt": "Fotoğraf Gul"
+      }  
+    ],
+    "question": null,
+    "answer": null,
+    "hints": []
+  },  
+  {
     "atIso": "2025-09-28T12:00:00+03:00",
     "type": "media",
-    "message": "Yolculuğunda yeni bir kapı açılıyor…\nBu kez ipucu seni geçmişimize götürüyor.\nBir zamanlar sana verdiğim, yüzeyinde birlikteki en mutlu anılarımızı taşıyan küçük bir küp hatırlıyor musun? ✨\nO, sadece bir süs değil… içinde saklı sırrı olan bir hatıra sandığı.\nKüpün içinde, sana özel gizli bir şey saklı. Onu bulmak için tek yapman gereken şey:\n👉 Küpü bulmak.\n👉 Ve içindekileri keşfetmek.\nUnutma sevgilim, bu küpün her yüzü seninle yaşadığım anların bir yansıması.\nVe kalbimin sana sakladığı sürpriz, tam da o anıların içinde gizleniyor.\nHazır mısın?\nKüp seni bekliyor… ve içinde gizlenen küçük sır da.",
+    "message": "Yolculuğunda yeni bir kapı açılıyor…\nBu kez ipucu seni geçmişimize götürüyor.\nBir zamanlar sana verdiğim, yüzeyinde birlikteki en mutlu anılarımızı taşıyan küçük bir küp hatırlıyor musun? ✨\nO, sadece bir süs değil… içinde saklı sırrı olan bir hatıra sandığı.\nKüpün içinde, sana özel gizli bir şey saklı. Onu bulmak için tek yapman gereken şey:\n👉 Küpü bulmak.\n👉 Ve içindekileri keşfetmek.\nUnutma sevgilim, bu küpün her yüzü seninle yaşadığım anların bir yansıması.\nVe kalbimin sana sakladığı sürpriz, tam da o anıların içinde gizleniyor.\nHazır mısın?\nKüp seni bekliyor… ve içinde gizlenen küçük sır da.\nKüpün nerede olduğunu öğrenmek için sana 12:01'de bir sms gelecek bu şekilde nerede olduğunu öğreneceksin çünkü onu gizli bir yere sakladım :)",
     "media": [
       {
         "kind": "image",
@@ -53,12 +68,12 @@
     "atIso": "2025-09-28T14:30:00+03:00",
     "type": "media",
     "message": "Evin gizli bir yerinde seni gizemli küçük bir hediye bekliyor, hediyeni almak için videoyu izlemen yeterli 💙",
-    "preContentNote": "Hediyeni bulduktan sonra sakın **HEDİYEMİ BULDUM** butonuna basmadan kutuyu açma.",
+    "preContentNote": "Hediyeni bulduktan sonra sakın **HEDİYEMİ BULDUM** butonuna basmadan hediyeni açma.",
     "media": [
       {
         "kind": "video",
-        "src": "/content/media/0000-day2.mp4",
-        "poster": "/content/media/0000-day2.jpg"
+        "src": "/content/media/tarakvideo.mp4",
+        "poster": "/content/media/tarakvideo.mp4"
       }
     ],
     "cta": {
@@ -107,13 +122,13 @@
     "media": [
       {
         "kind": "video",
-        "src": "/content/media/0000-day2.mp4",
-        "poster": "/content/media/0000-day2.jpg"
+        "src": "/content/media/cryptexvideo.mp4",
+        "poster": "/content/media/cryptexvideo.mp4"
       }
     ],
     "cta": {
       "label": "HEDİYEMİ BULDUM",
-      "afterCtaMessage": "Yolculuğunun bu adımında seni çok özel bir sır bekliyor…\nKarşında duran şey bir Da Vinci Cryptex. 🗝️\nİçinde sana ait, çok değerli ve hassas bir hediye saklı.\nAma sevgilim, bu cryptex asla zorlanmamalı…\nŞifre deneme-yanılma ile bulunmayacak; doğru zamanı gelmeden açılmayacak.\nVe lütfen unutma: Cryptex seninle işe gitmemeli. Onu evde bırak.\nİşe götürmen gereken şeyler zamanı gelince bildirilecek.\nSabırlı ol… Sabah 05:30'da her şey biraz daha netleşecek :) ✨"
+      "afterCtaMessage": "Yolculuğunun bu adımında seni çok özel bir sır bekliyor…\nKarşında duran şey bir Da Vinci Cryptex. 🗝️\nİçinde sana ait, çok değerli ve hassas bir hediye saklı.\nBu yüzden, crypte'i asla zorlamamalı ve ona zarar verebilecek davranışlardan kaçınmalısın sevgilim…\nŞifre deneme-yanılma ile bulunamayacak kadar zor; doğru zaman gelmeden maalesef açamayacaksın.\nVe lütfen unutma: Cryptex seninle işe gitmemeli. Onu evde bırak. Zarar görmesini istemezsin...\nİşe götürmen gereken şeyler zamanı gelince sana bildirilecek.\nSabırlı ol… Sabah 05:30'da her şey biraz daha netleşecek :) ✨"
     },
     "question": null,
     "answer": null,
@@ -122,7 +137,7 @@
   {
     "atIso": "2025-09-29T05:30:00+03:00",
     "type": "media",
-    "message": "Şimdi sırada kalbimin sana en özel armağanlarından biri var…\nZamanında aşkımızı anlatmak için sana yazdığım kitabı hatırlıyor musun? 📖\nBu kitabı şimdi açmanı istiyorum… ama yalnızca **son sayfasına** bak.\nOrada seni bir sonraki adıma götürecek ipucu var.\nVe çok önemli: Bu kitabı yanında taşımalısın.\nBugün işe giderken mutlaka yanında olmalı.\nÇünkü yolculuğunun devamı, o kitap seninle birlikte olduğunda mümkün olacak.\nKalbimle yazdım, şimdi kalbine rehberlik etsin… 💫",
+    "message": "Şimdi sırada kalbimin sana en özel armağanlarından biri var…\nZamanında aşkımızı anlatmak için sana yazdığım kitabı hatırlıyor musun? 📖\nBu kitabı şimdi açmanı istiyorum… ama yalnızca **son sayfasına** bak.\nOrada seni bir sonraki adıma götürecek ipucu var.\nVe çok önemli: Bu kitabı yanında taşımalısın.\nBugün işe giderken mutlaka yanında olmalı.\nÇünkü yolculuğunun devamı, o kitap seninle birlikte olduğunda mümkün olacak.\nKalbimle yazdım, şimdi kalbine rehberlik etsin… 💫\nTabi ki kitabını da sakladım yerini öğrenmek için 05:31'i beklemen gerekiyor, sana bir sms gelecek ve nerede olduğunu öğreneceksin...",
     "media": [
       {
         "kind": "image",
@@ -177,7 +192,7 @@
         "poster": "OD Urla Hatırası"
       }
     ],    
-    "postAnswerMessage": "(❓32.871978588080296, 39.89408132801439❓)"
+    "postAnswerMessage": "(❓29.871978588080296, 36.89408132801439❓)"
   },
   {
     "atIso": "2025-09-29T14:00:00+03:00",
@@ -194,25 +209,26 @@
     "message": "Sevgilim, yolculuğun burada biraz daha derinleşiyor…\nZamanında sana yazdığım kitabı eline al. 📖\nAma bu defa yalnızca okumak yetmeyecek… Sayfaları dikkatlice incelemen gerekiyor.\nHer satırda, her sayfada seni bekleyen küçük bir iz saklı.\nDikkatli gözlerin onu fark edecek… ve bu seni bir şifreye götürecek. 🔐\nUnutma; anahtar satırlarda gizli…",
     "media": [],
     "question": "Gizli mesaj nedir?",
-    "answer": "seni çok seviyorum",
+    "answer": "seni çok seviyorum sevgilim",
     "hints": [
       "İşaretli harflere bak",
       "Sırayla birleştir",
+      "Tüm harfler küçük harf olmalı",
       "Kelimeleri ayrı ayrı bir cümle şeklinde yaz"
     ],
-    "postAnswerMessage": "Sana olan sevgim, ömrümün sonuna kadar hiç eksilmeden devam edecek. Cryptex’in henüz bilmediğin ilk üç harfini öğrenmek için videoyu izleyebilirsin, unutma içindeki hediye gerçekten çok hassas cryptex'i açarken sakin ve sabırlı bir şekilde davranman çok önemli.\n💙💙Seni kelimelerden çok daha fazla seviyorum💙💙",
+    "postAnswerMessage": "Sana olan sevgim, ömrümün sonuna kadar hiç eksilmeden devam edecek. Cryptex’in henüz bilmediğin ilk üç harfini öğrenmek için orkidelerinin saksısının altına bakman gerekiyor, orkideleri kaldırırken dikkatli ol sevgilim. Saksının altında bulacağın şey çok kolay bir şekilde çıkarılabilir sadece zarar vermemeye çalış. Unutma cryptex'in içindeki hediye gerçekten çok hassas cryptex'i açarken sakin ve sabırlı bir şekilde davranman çok önemli.\n💙💙Seni kelimelerden çok daha fazla seviyorum💙💙",
     "mediaAfterAnswer": [
       {
-        "kind": "video",
-        "src": "/content/media/1630-after.mp4",
-        "poster": "/content/media/1630-after.jpg"
+        "kind": "image",
+        "src": "/content/media/orkide.png",
+        "poster": "/content/media/orkide.png"
       }
     ]
   },
   {
     "atIso": "2025-09-29T18:00:00+03:00",
     "type": "media",
-    "message": "Yavrum…\nBugün yolculuğunun her adımında sabrınla, dikkatle ve kalbinle ilerledin.\nArtık oyunun sonuna geldin… ve seni bekleyen ödül yalnızca bir hediye değil.\nBu geceyi seninle en özel şekilde tamamlamak istiyorum.\nO yüzden seni, bizim için özel bir yerde ayırdığım masaya davet ediyorum.\nRezervasyonumuz hazır… Ve tek yapman gereken, kalbinle bana eşlik etmek.\nİYİ Kİ DOĞDUN SEVGİLİM",
+    "message": "Yavrum…\nBugün yolculuğunun her adımında sabrınla, dikkatle ve kalbinle ilerledin.\nArtık oyunun sonuna geldin… ve seni bekleyen ödül yalnızca bir hediye değil...\nBu geceyi seninle en özel şekilde tamamlamak istiyorum.\nO yüzden seni, bizim için özel bir yerde ayırdığım masaya davet ediyorum.\nRezervasyonumuz hazır… Ve tek yapman gereken, kalbinle bana eşlik etmek.\nİYİ Kİ DOĞDUN SEVGİLİM",
     "media": [
       {
         "kind": "image",

@@ -35,9 +35,9 @@
       "cover": "cover-5.jpg"
     },
     {
-      "title": "#24",
-      "artist": "Dolu Kadehi Ters Tut",
-      "file": "24.mp3",
+      "title": "Yasemin",
+      "artist": "Burak Bulut & Serdar Ortaç",
+      "file": "yasemin.mp3",
       "cover": "cover-7.jpg"
     },
     {
@@ -47,15 +47,9 @@
       "cover": "cover-8.jpg"
     },
     {
-      "title": "İncir",
-      "artist": "İlyas Yalçıntaş",
-      "file": "incir.mp3",
-      "cover": "cover-9.jpg"
-    },
-    {
-      "title": "Biri Vardı",
-      "artist": "Pera",
-      "file": "birivar.mp3",
+      "title": "Bağdat",
+      "artist": "Ayla Çelik & Beyazıt Öztürk",
+      "file": "bagdat.mp3",
       "cover": "cover-10.jpg"
     },
     {
@@ -113,6 +107,12 @@
       "cover": "cover-18.jpg"
     },
     {
+      "title": "İncir",
+      "artist": "İlyas Yalçıntaş",
+      "file": "incir.mp3",
+      "cover": "cover-9.jpg"
+    },
+    {
       "title": "Bana Sen Lazımsın",
       "artist": "Rafet El Roman",
       "file": "banasenlazim.mp3",
@@ -153,6 +153,72 @@
       "artist": "Yalın",
       "file": "yalinhersey.mp3",
       "cover": "cover-25.jpg"
+    },
+    {
+      "title": "Olmazsan Olmaz",
+      "artist": "Güliz Ayla",
+      "file": "olmazsanolmaz.mp3",
+      "cover": "cover-26.jpg"
+    },
+    {
+      "title": "Ey Aşk",
+      "artist": "Sezen Aksu",
+      "file": "eyask.mp3",
+      "cover": "cover-27.jpg"
+    },
+    {
+      "title": "Disfruto",
+      "artist": "Carla Morrison",
+      "file": "disfruto.mp3",
+      "cover": "cover-28.jpg"
+    },
+    {
+      "title": "Ta Uzak Yollardan",
+      "artist": "Nilüfer",
+      "file": "tauzak.mp3",
+      "cover": "cover-29.jpg"
+    },
+    {
+      "title": "Seni Dert Etmeler",
+      "artist": "Madrigal",
+      "file": "senidert.mp3",
+      "cover": "cover-30.jpg"
+    },
+    {
+      "title": "Mutlu Olmak Zordur Derler",
+      "artist": "Canozan",
+      "file": "mutluolmak.mp3",
+      "cover": "cover-31.jpg"
+    },
+    {
+      "title": "Belki Üstümüzden Bir Kuş Geçer",
+      "artist": "Yüksek Sadakat",
+      "file": "belkibirkus.mp3",
+      "cover": "cover-32.jpg"
+    },
+    {
+      "title": "Bütün İstanbul Biliyo",
+      "artist": "İkiye On Kala",
+      "file": "istanbulbiliyo.mp3",
+      "cover": "cover-33.jpg"
+    },
+    {
+      "title": "Bana Ellerini Ver",
+      "artist": "Özdemir Erdoğan",
+      "file": "banaelleriniver.mp3",
+      "cover": "cover-34.jpg"
+    },
+    {
+      "title": "İstanbul Benden Büyük",
+      "artist": "Yalın",
+      "file": "istanbulbenden.mp3",
+      "cover": "cover-35.jpg"
+    },
+    {
+      "title": "Toprak Yağmura",
+      "artist": "Can Ozan",
+      "file": "toprakyagmur.mp3",
+      "cover": "cover-36.jpg"
     }
   ]
 }
